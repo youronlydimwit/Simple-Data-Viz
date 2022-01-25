@@ -1,6 +1,6 @@
 # Simple Data Viz
 ### Visualization Demonstration using Jupyter Notebook
-_This Project's Status: **ONGOING**_
+_This Project's Status: **ONGOING**_  
 Hi! My name is Sang Putu and this is the repository of my personal project: Data Visualization Demonstration using Jupyter Notebook.
 
 ### About this project
